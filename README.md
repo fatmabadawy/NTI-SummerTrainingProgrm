@@ -1,4 +1,4 @@
-# NTI Summer Training — Deep Learning Tasks
+# NTI Summer Training — Computer Vision Tasks
 
 Tasks completed during the [National Telecommunication Institute (NTI) Summer Internship Program](https://www.nti.sci.eg/summertraining/).
 
